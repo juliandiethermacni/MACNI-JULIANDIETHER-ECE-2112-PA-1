@@ -42,6 +42,7 @@ resulting to `ythonp`
 Create a function that accepts two strings for the first name and the last name. Then it generates a username that has all of the characters lowercase as well as removing all spaces while separating both the first and last name with a period.
 
 The following functions and methods were used in this problem:
+
 • `.lower()` - a string method that converts all letters to lowercase
 Example:
 ```python
@@ -83,6 +84,7 @@ resulting to `ada.lovelace`
 Create a function that accepts a list containing at least two elements, and only swaps the first and last element in the list.
 
 The following functions and methods were used in this problem:
+
 • **Sequency Unpacking** - a syntax that assigns elements into individual variables
 Example"
 ```python
